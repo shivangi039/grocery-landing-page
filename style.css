@@ -29,6 +29,7 @@ nav{
 }
 .navigation{
     position: relative;
+    overflow: hidden;
 }
 nav ul{
    list-style: none;
