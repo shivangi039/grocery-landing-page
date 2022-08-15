@@ -109,7 +109,7 @@ p.main-subtitle{
     margin: 0 auto;
     /* padding: 50px; */
     width: 80%;
-    padding: 50px;
+    padding: 50px 0;
     flex-wrap: wrap;
 }
 .section2__content li{
